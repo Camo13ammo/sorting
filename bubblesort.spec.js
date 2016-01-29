@@ -24,6 +24,7 @@ describe('Bubble Sort', function(){
     // 	sortedArr = bubbleSort([1,2,20,15,4,12,3]);
     // 	expect(bubbleSort.calls.count()).toEqual(5);
     // });
+//
 
     function generateArray(size, lower, upper){
         var randomArray = [];

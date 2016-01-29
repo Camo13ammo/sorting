@@ -20,7 +20,7 @@
 // 	}
 // 	return array;
 // }
-
+//definetly not the best way to do this
 
 //Video solution
 function bubbleSort(array){

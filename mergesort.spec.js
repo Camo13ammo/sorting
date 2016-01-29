@@ -57,8 +57,5 @@ describe('Merge Sort', function(){
 		expect(mergeSort([3,7,0,-5,11,3,5,12,-1])).toEqual([-5,-1,0,3,3,5,7,11,12]);
 	});
 
-	// it('was sorted using a merge sort', function(){
-	// 	expect
-	// })
 
 });  
